@@ -7,7 +7,7 @@ import { Label } from "@/components/ui/label";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import { Phone, Mail, MapPin, Clock, Send, CheckCircle } from "lucide-react";
 import { motion } from "framer-motion";
-import { Booking } from "../entities/Booking";
+import { Booking } from "../Entities/Booking";
 
 export default function Contact() {
   const [formData, setFormData] = useState({
