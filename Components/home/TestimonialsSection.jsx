@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { Card, CardContent } from "@/components/ui/card";
 import { Star, Quote } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Testimonial } from "../../entities/Testimonial";
+import { Testimonial } from "../../Entities/Testimonial";
 import { usePrefersReducedMotion } from "../../utils/accessibility";
 import { useRef } from "react";
 

@@ -3,7 +3,7 @@ export default {
   content: [
     "./index.html",
     "./main.jsx",
-    "./Layout.js",
+    "./Layout.jsx",
     "./Pages/**/*.{js,jsx}",
     "./Components/**/*.{js,jsx}",
     "./@/**/*.{js,jsx}",
